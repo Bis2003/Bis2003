@@ -74,10 +74,10 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/bis2003/bis2003/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 ---
 
