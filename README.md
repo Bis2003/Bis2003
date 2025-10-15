@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="center">🔥 Streak & Activity</h2>
+<!-- <h2 align="center">🔥 Streak & Activity</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bis2003&theme=dracula" alt="GitHub Streak" />
 </p>
@@ -84,6 +84,6 @@
 <h2 align="center">🎨 Fun Touch</h2>
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="animated coder gif" />
-</p>
+</p> -->
 
 ---
