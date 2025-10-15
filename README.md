@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bis2003&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
----
+
 
 <!-- <h2 align="center">🔥 Streak & Activity</h2>
 <p align="center">
@@ -79,11 +79,11 @@
   <img src="https://raw.githubusercontent.com/bis2003/bis2003/output/snake.svg" alt="Snake animation" />
 </p> -->
 
----
 
-<h2 align="center">🎨 Fun Touch</h2>
+
+<!-- <h2 align="center">🎨 Fun Touch</h2>
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="animated coder gif" />
-</p> -->
+</p> --> -->
 
 ---
