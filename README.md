@@ -11,10 +11,10 @@
 - 🌱 I’m currently learning **Oracle Cloud**
 - 👯 I’m looking to collaborate on **ReactJs, NodeJs**
 - 🤝 I’m looking for help with **ReactJs, NodeJs**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://unrivaled-cat-ab4898.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://bismah-kaleem.vercel.app/)
 - 💬 Ask me about **React, Nodejs, ASP.net**
 - 📫 How to reach me: **kaleembismah@gmail.com**
-- 📄 [View My Resume](https://unrivaled-cat-ab4898.netlify.app/resume.pdf)
+- 📄 [View My Resume](https://bismah-kaleem.vercel.app/Bismah_Kaleem_Resume.pdf)
 - ⚡ Fun fact: **💻 I started as a fighter pilot dreamer but ended up flying through lines of code instead.**
 
 ---
